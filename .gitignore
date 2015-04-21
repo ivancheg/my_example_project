@@ -1,6 +1,6 @@
 target/
 .idea/
-my_axample_project.iml
+my_example_project.iml
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
