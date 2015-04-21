@@ -1,0 +1,5 @@
+browserName=Safari
+deviceName=iPad 2
+platformName=iOS
+platformVersion=8.2
+newCommandTimeout=0

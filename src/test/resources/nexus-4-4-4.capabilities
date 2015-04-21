@@ -1,0 +1,6 @@
+browserName=Browser
+deviceName=Nexus 4
+platformName=Android
+platformVersion=4.4
+newCommandTimeout=0
+udid=192.168.56.101:5555
